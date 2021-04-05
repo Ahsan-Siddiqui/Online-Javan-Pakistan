@@ -4,11 +4,21 @@ steps:
 2) make a project and right click on git bash
 3) to initialize git use command $git init
 4) to check position of git user command $git status
-5) git add -A //use to track git 
+5) git add -A //use to track all files  
 6) git commit -m "work complete" 
 // wait if you run this command on git, git will ask you two questions
 // first is your name and scond one is your email so please before this step
 // you have to define yourself first.
+// To configure yourself use command
+7) git config --global user.name "Your name here"
+8) git config --global user.email "Your email"
+// Now again go back to step:06
+// git password: ahsanGit@12
+9) Goto github.com
+10) git remote add origin "Your github url"
+11) git pust -u origin 
+// create repository its mean you just connect your folder with internet github.com
 git init   // this is use to update git repositary record
 git status // this is use to check git status
 code . // this is use to open code on vscode
+12) git clone "your desire url which you want to clone on your system"
