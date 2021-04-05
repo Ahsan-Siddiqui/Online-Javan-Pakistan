@@ -1,0 +1,10 @@
+Git (Distributive version control system)
+steps:
+1) download and install git from git-scm.com
+2) make a project and right click on git bash
+3) to initialize git use command $git init
+4) to check position of git user command $git status
+5) git add -A //use to track git 
+git init   // this is use to update git repositary record
+git status // this is use to check git status
+code . // this is use to open code on vscode
