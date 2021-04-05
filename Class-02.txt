@@ -26,4 +26,4 @@ code . // this is use to open code on vscode
 // AGILE  = DESIGN -> DEVELOP -> TEST -> RELASE -> FEEDBACK -> PLAN
 // DEVOPS = TEST -> DEPLOY
 
-// If you want to update your github record you just follow step 6 and then step 11
+// If you want to update your github record you just follow step 5,step 6 and then step 11
