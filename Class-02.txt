@@ -23,4 +23,6 @@ git status // this is use to check git status
 code . // this is use to open code on vscode
 12) git clone "your desire url which you want to clone on your system"
 
+// AGILE -> DESIGN -> DEVELOP -> TEST -> RELASE -> FEEDBACK -> PLAN
+
 // If you want to update your github record you just follow step 6 and then step 11
