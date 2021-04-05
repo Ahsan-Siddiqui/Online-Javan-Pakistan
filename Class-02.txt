@@ -16,9 +16,11 @@ steps:
 // git password: ahsanGit@12
 9) Goto github.com
 10) git remote add origin "Your github url"
-11) git pust -u origin 
+11) git pust -u origin master
 // create repository its mean you just connect your folder with internet github.com
 git init   // this is use to update git repositary record
 git status // this is use to check git status
 code . // this is use to open code on vscode
 12) git clone "your desire url which you want to clone on your system"
+
+// If you want to update your github record you just follow step 6 and then step 11
