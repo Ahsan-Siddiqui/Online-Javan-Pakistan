@@ -5,6 +5,10 @@ steps:
 3) to initialize git use command $git init
 4) to check position of git user command $git status
 5) git add -A //use to track git 
+6) git commit -m "work complete" 
+// wait if you run this command on git, git will ask you two questions
+// first is your name and scond one is your email so please before this step
+// you have to define yourself first.
 git init   // this is use to update git repositary record
 git status // this is use to check git status
 code . // this is use to open code on vscode
